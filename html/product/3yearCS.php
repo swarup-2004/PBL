@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Product page </title>
-    <link rel="stylesheet" href="product.css">
+    <link rel="stylesheet" href="../../Css/product.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 </head>
@@ -22,7 +22,7 @@
 
 
 
-            <img src="logo.png">
+            <img src="images/logo.png">
 
 
 
@@ -165,9 +165,9 @@
             <div class="swiper">
                 <div class="swiper-wrapper">
 
-                    <div class="swiper-slide"> <img src="images/pro_1.jpg"> </div>
-                    <div class="swiper-slide"> <img src="images/pro_2.jpg"></div>
-                    <div class="swiper-slide"> <img src="images/pro_3.jpg"></div>
+                    <div class="swiper-slide"> <img src="images/3cs.jpg"> </div>
+                    <div class="swiper-slide"> <img src="images/3cs2.jpg"></div>
+                    <div class="swiper-slide"> <img src="images/3cs3.jpg"></div>
                     <div class="swiper-slide"> <img src="images/pro_4.jpg"></div>
 
                 </div>
@@ -181,7 +181,9 @@
 
             <div class="descriptiopn">
                 <h3> Description </h3>
-                <p>SME, BXE, EM, EM II</p>
+                <p>Third Year Computer Science Department
+                    SPOS,Data Science, AI, Web Technology
+                </p>
             </div>
         </div>
 
@@ -194,17 +196,25 @@
                         <p> <i class="fa-regular fa-heart"></i> </p>
                     </div>
                 </div>
-                <span>Graphics Kit</span>
+                <span>Third year CS books </span>
                 <div class="location">
-                    <p>Harsh Sutar 696969</p>
+                    <p>Harsh Sutar 9359019291</p>
                     <p>Today</p>
                 </div>
             </div>
 
          <div class="box" id="box3">
               <h2> Posted in </h2>
-              <p>Dhankawadi, Pune</p>
-              <img src="download.png" >
+              <p>PICT Dhankawadi, Pune 
+                Sahil Warade 9420255917,
+                Swarup Pokharkar,
+                Harsh Suthar,
+                Saurabh Joshi,
+                Kaustubh Kulkarni.
+
+              </p>
+              <img src="T.jpeg" >
+              <img src="pict.jpg">
          </div>
 
 

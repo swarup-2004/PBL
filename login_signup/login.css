@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* <!-- =============================== * navbar * ============================================ --> */
+
+.hedder{
+    position: sticky;
+    top: 0%;
+}
+
+
+.navbar img{ 
+ width: 280px;
+ margin-left: auto;
+ margin-right:auto;
+ display: block;
+}
+#box{
+
+    background-color: white;
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+}
+#box form{
+    padding:20px;
+    border-radius:5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,.1);
+    background:#fff;
+    text-align:center;
+
+}
+#box form h3{
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    color:#333;
+
+}
+#box form h2{
+    font-size:18px;
+}
+
+#box form #button{
+
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color:rgb(62, 61, 61);
+    border: none;
+}
+
+
+
