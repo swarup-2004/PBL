@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Product page </title>
-    <link rel="stylesheet" href="product.css">
+    <link rel="stylesheet" href="../../Css/product.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 </head>
@@ -109,6 +109,10 @@
                             <p>My Account</p>
                         </li>
                         <li>
+
+
+
+                                                            
                             <i class="fa-solid fa-box"></i>
                             <p>My Orders</p>
                         </li>
@@ -161,10 +165,10 @@
             <div class="swiper">
                 <div class="swiper-wrapper">
 
-                    <div class="swiper-slide"> <img src="images/pro_1.jpg"> </div>
-                    <div class="swiper-slide"> <img src="images/pro_2.jpg"></div>
-                    <div class="swiper-slide"> <img src="images/pro_3.jpg"></div>
-                    <div class="swiper-slide"> <img src="images/pro_4.jpg"></div>
+                    <div class="swiper-slide"> <img src="wsimage.jpg"> </div>
+                    <div class="swiper-slide"> <img src="ws2.jpg"></div>
+                    <div class="swiper-slide"> <img src="ws3.jpg"></div>
+                    <div class="swiper-slide"> <img src="ws4.jpg"></div>
 
                 </div>
 
@@ -177,57 +181,40 @@
 
             <div class="descriptiopn">
                 <h3> Description </h3>
-            <h4>Computer Science Engineering Subjects</h4>
-                <h5>First Semester</h5>
-                <p>Discrete Mathematics , Fundamentals of Data Structures , Object Oriented Orogramming ,
-                    Computer Graphics , Digital Electronics And Logic Design </p>
-                <h5> Second Semester</h5>
-                 <p>Engineering Mathematics 3 , Data Structures And Algorithms , Software Engineering ,
-                     Microprocessor , Principles of Programming Languages  </p>
-                <br>
-            <h4>Information Technology</h4>
-                <h5>First Semester</h5>
-                <p>Discrete Mathematics , Logic Design And Computer Organization , Data Structures and Algorithms ,
-                    Object Oriented Programming , Basics of Computer Network  </p>
-                <h5>Second Semester</h5>
-                <p>Engineering Mathematics 3 , Processor Architecture , Database Management System , Computer 
-                    Graphics , Software Engineering </p>
-                    <br>
-            <h4>Electronics and Tele-communication Engineering</h4>
-                <h5>First Semester</h5>
-                <p>Engineering Mathematics3 , Electronic Circuits , Digital Circuits , Electrical Circuits ,
-                    Data Structures </p>
-                <h5>Second Semester</h5>
-                <p>Signals and Systems , Control Systems , Principles of Communication SystemS ,Object Oriented 
-                    Programming </p>
-                
-                
-                
-                
-                    </p>
+                <p>Gloves, Scale, marker, Apron,</p>
             </div>
         </div>
 
         <div class="product_details">
             <div class="box">
                 <div class="price">
-                    <h3> Not Decided Yet</h3>
+                    <h3> ₹200</h3>
                     <div>
                         <p><i class="fa-solid fa-share-nodes"></i> </p>
                         <p> <i class="fa-regular fa-heart"></i> </p>
                     </div>
                 </div>
-                <span>Second Year Books - Technical Publication</span>
+                <span>WorkshopKit</span>
                 <div class="location">
-                    <p>Aman Gupta aman@gmail.com 3445666</p>
+                    <p>Harsh Sutar 9359019291
+                        
+                    </p>
                     <p>Today</p>
                 </div>
             </div>
 
          <div class="box" id="box3">
               <h2> Posted in </h2>
-              <p>Dhankawadi, Pune</p>
-              <img src="DSA.jpg" >
+              <p> PICT Dhankawadi, Pune 
+                SAHIL WARADE 9420255917,
+                Swarup Pokharkar,
+                Harsh Suthar,
+                Saurabh Joshi,
+                Kaustubh Kulkarni.
+
+              </p>
+              <img src="T.jpeg" >
+              <img src="pict.jpg">
          </div>
 
 
